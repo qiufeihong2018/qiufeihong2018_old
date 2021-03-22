@@ -11,7 +11,7 @@ I am a web development. I love programming, reading, writing and sharing. Here i
 Here are some ideas to get you started:
 
 - 🤔 I’m currently working on something cool.
-- 🌱 I’m currently learning Data Structures and Algorithms on leetcode.
+- 🌱 I’m currently reading the Electron, Element, and Vue source code.
 - 📫 How to reach me: Email: qiufeihong2018@126.com
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
