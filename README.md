@@ -6,7 +6,7 @@
 
 I am a web development. I love programming, reading, writing and sharing. Here is [my blog](https://github.com/qiufeihong2018/vuepress-blog)
 
-<img src="./coding.gif?raw=true" align="right" height="200px">
+<img src="https://raw.githubusercontent.com/qiufeihong2018/qiufeihong2018/main/coding.gif" align="right" height="200px">
 
 Here are some ideas to get you started:
 
