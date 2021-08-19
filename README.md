@@ -6,7 +6,7 @@
 
 I am a front-end development. I love programming, reading, writing and sharing. Here is [my blog](https://github.com/qiufeihong2018/vuepress-blog)
 
-<img src="https://raw.githubusercontent.com/qiufeihong2018/qiufeihong2018/main/coding.gif" align="right" height="200px">
+<img src="https://camo.githubusercontent.com/9ef3425dee5c0408ecb1343d9de3f1e71e6e4315f145cceb451c98c033ea7e14/68747470733a2f2f636f756e742e6765746c6f6c692e636f6d2f6765742f403a77616e67726f6e6764696e67" align="right" height="200px">
 
 Here are some ideas to get you started:
 
