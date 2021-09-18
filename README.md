@@ -2,7 +2,7 @@
 
 <!-- <a href="https://qiufeihong2018.github.io/"><img src="https://bubuzou.oss-cn-shenzhen.aliyuncs.com/blog/202101/website_01.png"></a> -->
 <a href="https://juejin.cn/user/1099167358268392/posts" target="_blank"><img src="https://bubuzou.oss-cn-shenzhen.aliyuncs.com/blog/202101/juejin_01.png"></a>
-<a href="https://user-gold-cdn.xitu.io/2019/9/10/16d1a4868c5f5634?imageView2/0/w/1280/h/960/format/webp/ignore-error/1" target="_blank"><img src="https://bubuzou.oss-cn-shenzhen.aliyuncs.com/blog/202101/gzh_01.png"></a>
+<a href="https://p3-juejin.byteimg.com/tos-cn-i-k3u1fbpfcp/ceb2626d9a3445cdb112bf7628955f7c~tplv-k3u1fbpfcp-watermark.image?" target="_blank"><img src="https://bubuzou.oss-cn-shenzhen.aliyuncs.com/blog/202101/gzh_01.png"></a>
 
 I am a front-end development. I love programming, reading, writing and sharing. Here is [my blog](https://github.com/qiufeihong2018/vuepress-blog)
 
