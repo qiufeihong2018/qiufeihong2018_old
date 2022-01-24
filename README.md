@@ -11,7 +11,7 @@ I am a front-end development. I love programming, reading, writing and sharing. 
 Here are some ideas to get you started:
 
 - 🤔 I’m currently working on something cool.
-- 🌱 I’m currently reading the Electron, Element, and Vue source code.
+- 🌱 I’m currently reading the Vue, Element, React, and Electron source code.
 - 📫 How to reach me: Email: qiufeihong2018@126.com
 
 **📈 This Week I Spent My Time On:**
